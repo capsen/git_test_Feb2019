@@ -10,5 +10,11 @@
 # 8. Open a pull request from the new branch to the original repo.
 
 # Please put your name below:
-
 Shuyi Zhang 
+Yuchen Zhou
+sarah li
+Charlie
+Xinling Xu
+Arden
+Leo's Github username: leo491427
+
